@@ -1,3 +1,3 @@
 # Soon ...
-"Dear Hoopoe, welcome! You will be our guide;
+"Dear Hoopoe, welcome! You will be our guide;\n
 It was on you King Solomon relied" 
